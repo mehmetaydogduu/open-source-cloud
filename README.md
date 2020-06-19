@@ -22,6 +22,7 @@ This is the tools index from all layers. Already popular tools are not included 
  - https://run.pivotal.io
  - https://www.liferay.com/products/dxp-cloud
  - https://www.weave.works/product/cloud/
+ - https://platform.sh
 
 **Containerization**
  - https://github.com/gliderlabs/herokuish
