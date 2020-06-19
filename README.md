@@ -31,6 +31,8 @@ This is the tools index from all layers. Already popular tools are not included 
  
 **Open Source Services as Commercial**
   - https://www.instaclustr.com
+  - https://aiven.io
+  - https://scalegrid.io
 
 **Databases**
  - https://github.com/griddb/griddb
