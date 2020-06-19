@@ -28,14 +28,14 @@ This is the tools index from all layers. Already popular tools are not included 
  - https://github.com/postalhq/postal
  - https://github.com/minio/minio
  - https://github.com/browserless/chrome
- 
-**Open Source Services as Commercial**
-  - https://www.instaclustr.com
-  - https://aiven.io
-  - https://scalegrid.io
 
 **Databases**
  - https://github.com/griddb/griddb
  - https://github.com/rethinkdb/rethinkdb
  - https://github.com/yugabyte/yugabyte-db
  - https://github.com/valeriansaliou/sonic
+
+**Popular Open Source Databases as Commercial Service**
+  - https://www.instaclustr.com
+  - https://aiven.io
+  - https://scalegrid.io
