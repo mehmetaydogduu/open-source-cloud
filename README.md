@@ -10,7 +10,7 @@ This is the tools index from all layers. Already popular tools are not included 
  - https://github.com/VirtEngine
  
 **PAAS**
- - https://github.com/teamhephy/workflow
+ - https://github.com/teamhephy/workflow (Compatible with gui https://github.com/olalonde/deisdash)
  - https://github.com/zendesk/samson
  - https://github.com/CenturyLinkLabs/panamax-ui
  - https://github.com/weaveworks/weave
