@@ -1,4 +1,4 @@
-# open-source-cloud
+# Open Source Cloud
 The open source cloud things to build your own cloud
 
 The list includes commercial tools to have inspration.
