@@ -24,7 +24,7 @@ This is the tools index from all layers. Already popular tools are not included 
 **Containerization**
  - https://github.com/gliderlabs/herokuish
  
-**Deployment Experience**
+**Deployment Experience as Commercial Service**
  - https://www.deployhq.com
 
 **Services**
