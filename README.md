@@ -1,10 +1,7 @@
-# Open Source Cloud
+# Open Source Cloud Tools
 The open source cloud things to build your own cloud
-
-The list includes commercial tools to have inspration.
-
+The list includes commercial tools to have inspiration.
 We have different layers in cloud technologies.
-
 This is the tools index from all layers. Already popular tools are not included here.
 
 **IAAS**
@@ -12,7 +9,7 @@ This is the tools index from all layers. Already popular tools are not included 
  - https://github.com/subuk/vmango
  - https://github.com/VirtEngine
  
- **PAAS**
+**PAAS**
  - https://github.com/teamhephy/workflow
  - https://github.com/zendesk/samson
  - https://github.com/CenturyLinkLabs/panamax-ui
@@ -27,10 +24,13 @@ This is the tools index from all layers. Already popular tools are not included 
 **Containerization**
  - https://github.com/gliderlabs/herokuish
 
- **Services**
+**Services**
  - https://github.com/postalhq/postal
  - https://github.com/minio/minio
  - https://github.com/browserless/chrome
+ 
+**Open Source Services as Commercial**
+  - https://www.instaclustr.com
 
 **Databases**
  - https://github.com/griddb/griddb
